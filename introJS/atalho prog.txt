@@ -1,0 +1,5 @@
+Formatar código = Shift + Alt + F
+
+│ = Alt + 5555
+
+Barra invertida = Alt + 92 (\)
